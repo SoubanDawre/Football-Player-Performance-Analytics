@@ -1,0 +1,25 @@
+player,nationality,club,position,age,matches,starts,minutes,goals,assists,clean_sheets,xg_per90,xa_per90,rating
+Alex Morganson,England,Northbridge FC,FW,24,30,27,2310,19,7,0,0.62,0.21,8.1
+Luca Moretti,Italy,Northbridge FC,MF,27,28,25,2180,8,11,0,0.24,0.31,7.8
+Mateo Silva,Brazil,Harbor United,FW,22,26,22,1900,15,5,0,0.55,0.18,7.9
+Noah Williams,England,Harbor United,DF,29,31,30,2670,2,3,10,0.06,0.08,7.3
+Ethan Clarke,Scotland,Redwood City,GK,30,32,32,2880,0,0,12,0.0,0.0,7.4
+Thiago Costa,Portugal,Redwood City,MF,25,29,26,2240,6,9,0,0.19,0.28,7.6
+Milan Petrovic,Serbia,Capital Rovers,FW,26,27,24,2050,13,4,0,0.48,0.14,7.7
+Oliver Bennett,England,Capital Rovers,DF,23,25,21,1840,1,2,8,0.04,0.06,7.1
+Enzo Ricci,Italy,Lakeside Athletic,MF,21,24,18,1510,5,6,0,0.17,0.25,7.2
+Gabriel Santos,Brazil,Lakeside Athletic,FW,28,30,28,2450,17,8,0,0.58,0.23,8.0
+Hugo Martin,France,Metro Stars,GK,26,29,29,2610,0,0,9,0.0,0.0,7.2
+Daniel Kim,Korea,Metro Stars,DF,24,28,27,2390,3,4,7,0.08,0.1,7.4
+Adam Novak,Czechia,Northbridge FC,DF,31,22,19,1680,1,1,6,0.03,0.04,6.9
+Rafael Oliveira,Portugal,Harbor United,MF,23,27,23,1960,7,10,0,0.22,0.34,7.8
+Finn Murphy,Ireland,Redwood City,FW,20,18,9,890,6,2,0,0.51,0.16,7.0
+Leo Fischer,Germany,Capital Rovers,GK,28,31,31,2790,0,0,11,0.0,0.0,7.6
+Samir Haddad,Morocco,Lakeside Athletic,DF,27,30,29,2580,2,5,9,0.05,0.12,7.5
+Oscar Jensen,Denmark,Metro Stars,MF,22,26,20,1730,4,7,0,0.15,0.27,7.3
+Diego Herrera,Spain,Northbridge FC,FW,29,25,20,1770,11,6,0,0.46,0.2,7.6
+Benjamin Scott,USA,Harbor United,GK,25,20,20,1800,0,0,6,0.0,0.0,7.1
+Andre Laurent,France,Redwood City,DF,26,29,27,2410,1,3,8,0.04,0.09,7.3
+Kaito Tanaka,Japan,Capital Rovers,MF,24,30,28,2460,9,8,0,0.26,0.24,7.7
+Marco Bianchi,Italy,Lakeside Athletic,FW,23,21,16,1390,10,3,0,0.57,0.17,7.4
+Jayden Brooks,England,Metro Stars,DF,21,19,14,1260,0,2,5,0.03,0.07,6.9
